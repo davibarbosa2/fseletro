@@ -17,7 +17,7 @@
 
         <div class="container">
             <h1>Seja Bem-Vindo(a) à Full Stack Eletro!!</h1>
-            <p>Aqui você encontra os melhores produtos do Brasil</p>
+            <p>Os melhores produtos do Brasil !</p>
         </div>
 
         <br><br><br><br><br><br>
